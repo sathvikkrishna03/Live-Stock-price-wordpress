@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: DynamicShortcode19-05
- * Description: Plugin to update a shortcode on every page load using a GET API call with caching.
+ * Plugin Name: Live_stock_price_Plugin
+ * Description: Get the data from the api and store the data in a Dynamic Shortcode so that it can be used any at any part of the website.
  */
 
 
